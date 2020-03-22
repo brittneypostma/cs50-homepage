@@ -84,8 +84,8 @@ class Home extends HTMLElement {
     development with an extensive knowledge of CSS and React with Gatsby, Svelte
     with Sapper, SEO, UX/UI design, and logo design. I love learning about all
     the cool new stuff that comes out in the tech world daily. I also 💖 coffee
-    and beer 🍻, well because mom life! I have thouroughly enjoyed taking CS50
-    and plan on continuing my journey on constanstly learning more ways to code
+    and beer 🍻, well because mom life! I have thoroughly enjoyed taking CS50
+    and plan on continuing my journey on constantly learning more ways to code
     fun programs and beautiful websites. This was my attempt at creating a small
     snippet of my original portfolio with web components. You can check it out the
     original <a id="page" href="https://bdesigned.netlify.com/" rel="noopener noreferrer"
